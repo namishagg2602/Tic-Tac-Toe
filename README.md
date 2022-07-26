@@ -1,3 +1,5 @@
+Application is deployed here : https://tic-tac-toe-wins.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
